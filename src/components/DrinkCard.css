@@ -1,0 +1,9 @@
+.drinkCard {
+  box-shadow: 0px 15px 15px lightgray;
+  border-radius: 20px;
+}
+
+.drinkCard img {
+  height: 200px;
+  width: auto;
+}
